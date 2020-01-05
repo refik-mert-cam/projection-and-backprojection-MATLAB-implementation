@@ -23,3 +23,6 @@ applied on the projection data before reconstruction.
 In this repository, one can find the final report and projection and back-projection implementation codes with MATLAB Appdesigner platform.
 You can simply download the repository and test it in your computer.
 
+A Sample Screen View of GUI
+
+![A Sample Screen View of GUI](https://github.com/refik-mert-cam/photon_recycling/blob/master/my_reproduction.PNG)
