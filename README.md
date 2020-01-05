@@ -25,4 +25,4 @@ You can simply download the repository and test it in your computer.
 
 A Sample Screen View of GUI
 
-![A Sample Screen View of GUI](https://github.com/refik-mert-cam/photon_recycling/blob/master/my_reproduction.PNG)
+![A Sample Screen View of GUI](https://github.com/refik-mert-cam/projection-and-backprojection-MATLAB-implementation/blob/master/screen%20of%20GUI.JPG)
